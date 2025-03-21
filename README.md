@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=yapay%20zeka&imgurl=https%3A%2F%2Ftsofthedles.cloudewer.com%2Fupload%2Fpublic%2F%2F2024_03_27%2Fartificial-intelligence-ai-robot-finger-making-contact-with-human-hand.jpg&imgrefurl=https%3A%2F%2Fwww.tsoft.com.tr%2Fblog%2Fyapay-zeka-nedir-e-ticarette-yapay-zeka-kullanimi&docid=kA1zbzIfrsx-sM&tbnid=abyTTNRJeilVkM&vet=12ahUKEwiN_c7qopyMAxUKAxAIHQ6lJ4oQM3oECBwQAA..i&w=1140&h=640&hcb=2&ved=2ahUKEwiN_c7qopyMAxUKAxAIHQ6lJ4oQM3oECBwQAA)
+![MasterHead](https://www.ihs.com.tr/blog/wp-content/uploads/2016/06/programlama-dilleri.png)
 
 
 <h1 align="center">Hi 👋, I'm Sanem Coşkun</h1>
