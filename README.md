@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sanemcoskun/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.medium.com/sanemcoskun" title="Medium Profile"><img width="22" src="images/medium.png"> HackerRank</a></code>
-  <code><a href="https://www.kaggle.com/sanemcoskun" title="Kaggle Profile"><img width="22" src="images/kaggle.png"> Stack Overflow</a></code>
+  <code><a href="https://www.medium.com/sanemcoskun" title="Medium Profile"><img width="22" src="images/medium.png"> Medium</a></code>
+  <code><a href="https://www.kaggle.com/sanemcoskun" title="Kaggle Profile"><img width="22" src="images/kaggle.png"> Kaggle</a></code>
   <code><a href="https://www.instagram.com/sanemcskun/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
