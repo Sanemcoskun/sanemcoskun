@@ -81,7 +81,7 @@
   <a align="left" href="https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118-New" title="Bootcamp Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Bootcamp2023-Takim-U-118-New&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Sanemcoskun/CandyBoom-HTML-5-Oyun-Projesi" title="CandyBoom Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=CandyBoom-HTML-5-Oyun-Projesi&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Sanemcoskun?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> 
