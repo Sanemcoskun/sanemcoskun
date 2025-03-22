@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sanemcoskun/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.medium.com/sanemcoskun" title="HackerRank Profile"><img width="22" src="images/medium.png"> HackerRank</a></code>
+  <code><a href="https://www.medium.com/sanemcoskun" title="Medium Profile"><img width="22" src="images/medium.png"> HackerRank</a></code>
   <code><a href="https://www.kaggle.com/sanemcoskun" title="Kaggle Profile"><img width="22" src="images/kaggle.png"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/sanemcskun/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
@@ -22,8 +22,6 @@
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning data science with Python
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/sanemcoskun/sanemcoskun/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: sanemcoskunn@hotmail.com">sanemcoskunn@hotmail.com</a>
 </p>
@@ -75,19 +73,14 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Sanemcoskun/E-commerce-database" title="E-commerce DB"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=E-commerce-database&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Sanemcoskun/Airline-EDA" title="Airline EDA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Airline-EDA&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Sanemcoskun/E-commerce-database" title="E-commerce DB"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=E-commerce-database&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Sanemcoskun/Airline-Data-Analysis" title="Airline Data Analysis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Airline-Data-Analysis&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Sanemcoskun/Todo-App" title="Todo App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Todo-App&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sanemcoskun/Machine-Learning-Examples" title="ML Examples"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Machine-Learning-Examples&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118-New" title="Bootcamp Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Bootcamp2023-Takim-U-118-New&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Sanemcoskun/CandyBoom-HTML-5-Oyun-Projesi" title="CandyBoom Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=CandyBoom-HTML-5-Oyun-Projesi&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sanemcoskun/Personal-Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Personal-Portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sanemcoskun/Instagram-Clone" title="Instagram Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Instagram-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Sanemcoskun?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
