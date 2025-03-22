@@ -81,8 +81,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sanemcoskun/Airline-EDA" title="Airline EDA">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Airline-EDA&theme=react&border_color=61dafb&border_radius=10" />
+      <a href="https://github.com/Sanemcoskun/OnlineLanguageEducationSystem" title="Airline EDA">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=OnlineLanguageEducationSystem&theme=react&border_color=61dafb&border_radius=10" />
       </a>
     </td>
   </tr>
@@ -101,7 +101,7 @@
 </table>
 
 
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <h4 align="center">
   <a href="https://github.com/Sanemcoskun?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> 
