@@ -71,16 +71,35 @@
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sanemcoskun/E-commerce-database" title="E-commerce DB"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=E-commerce-database&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sanemcoskun/Airline-Data-Analysis" title="Airline EDA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Airline-Data-Analysis&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118-New" title="Bootcamp Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Bootcamp2023-Takim-U-118-New&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sanemcoskun/CandyBoom-HTML-5-Oyun-Projesi" title="CandyBoom Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=CandyBoom-HTML-5-Oyun-Projesi&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sanemcoskun/E-commerce-database" title="E-commerce DB">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=E-commerce-database&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sanemcoskun/Airline-EDA" title="Airline EDA">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Airline-EDA&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sanemcoskun/Bootcamp2023-Takim-U-118-New" title="Bootcamp Game">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=Bootcamp2023-Takim-U-118-New&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sanemcoskun/CandyBoom-HTML-5-Oyun-Projesi" title="CandyBoom Game">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanemcoskun&repo=CandyBoom-HTML-5-Oyun-Projesi&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
